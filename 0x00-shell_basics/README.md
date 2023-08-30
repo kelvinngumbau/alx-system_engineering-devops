@@ -12,3 +12,6 @@ ls -l
 
 ###[4-listmorefiles](4-listmorefiles)
 ls -la
+
+###[5-listfilesdigitonly](5-listfilesdigitonly)
+ls -lna
