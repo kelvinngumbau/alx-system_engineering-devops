@@ -1,1 +1,1 @@
-chmod u + x files
+giving permissions to our files
