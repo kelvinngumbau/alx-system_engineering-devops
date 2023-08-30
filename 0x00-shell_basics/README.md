@@ -6,3 +6,6 @@ ls
 
 ###[2-bring_me_home](2-bring_me_home)
 cd home
+
+###[3-listfiles](3-listfiles)
+ls -l
