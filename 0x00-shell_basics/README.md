@@ -45,3 +45,6 @@ cp -u *.html ..
 
 ###[100-lets_move](100-lets_move)
 mv [[:upper:]]* /tmp/u
+
+###[101-clean_emacs](101-clean_emacs)
+rm *~
