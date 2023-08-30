@@ -24,3 +24,6 @@ mv /tmp/betty /tmp/my_first_directory
 
 ###[8-firstdelete](8-firstdelete)
 rm /tmp/my_first_directory/betty
+
+###[9-firstdirdeletion](9-firstdirdeletion)
+rmdir /tmp/my_first_directory
