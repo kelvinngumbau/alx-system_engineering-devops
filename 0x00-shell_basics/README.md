@@ -9,3 +9,6 @@ cd home
 
 ###[3-listfiles](3-listfiles)
 ls -l
+
+###[4-listmorefiles](4-listmorefiles)
+ls -la
