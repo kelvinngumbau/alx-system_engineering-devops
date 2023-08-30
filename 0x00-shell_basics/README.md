@@ -42,3 +42,6 @@ ln -s /bin/ls __ls__
 
 ###[14-copy_html](14-copy_html)
 cp -u *.html ..
+
+###[100-lets_move](100-lets_move)
+mv [[:upper:]]* /tmp/u
