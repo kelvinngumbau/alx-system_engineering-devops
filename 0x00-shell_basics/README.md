@@ -39,3 +39,6 @@ file /tmp/iamafile
 
 ###[13-symbolic_link](13-symbolic_link)
 ln -s /bin/ls __ls__
+
+###[14-copy_html](14-copy_html)
+cp -u *.html ..
