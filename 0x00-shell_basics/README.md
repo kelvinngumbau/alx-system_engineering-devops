@@ -51,3 +51,6 @@ rm *~
 
 ###[102-tree](102-tree)
 mkdir -p welcome/to/school
+
+###[103-commas](103-commas)
+ls -pa -m
