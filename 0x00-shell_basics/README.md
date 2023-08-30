@@ -33,3 +33,6 @@ cd -
 
 ###[11-lists](11-lists)
 ls -la . .. /boot
+
+###[12-file_type](12-file_type)
+file /tmp/iamafile
