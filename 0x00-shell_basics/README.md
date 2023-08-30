@@ -21,3 +21,6 @@ mkdir tmp/my_first_directory
 
 ###[7-movethatfile](7-movethatfile)
 mv /tmp/betty /tmp/my_first_directory
+
+###[8-firstdelete](8-firstdelete)
+rm /tmp/my_first_directory/betty
