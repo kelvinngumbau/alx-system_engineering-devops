@@ -17,7 +17,7 @@ ls -la
 ls -lna
 
 ###[6-firstdirectory](6-firstdirectory)
-mkdir tmp/my_first_directory
+mkdir /tmp/my_first_directory
 
 ###[7-movethatfile](7-movethatfile)
 mv /tmp/betty /tmp/my_first_directory
@@ -29,4 +29,7 @@ rm /tmp/my_first_directory/betty
 rmdir /tmp/my_first_directory
 
 ###[10-back](10-back)
-cd ..
+cd -
+
+###[11-lists](11-lists)
+ls -la . .. /boot
