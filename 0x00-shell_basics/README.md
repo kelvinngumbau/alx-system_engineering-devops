@@ -15,3 +15,6 @@ ls -la
 
 ###[5-listfilesdigitonly](5-listfilesdigitonly)
 ls -lna
+
+###[6-firstdirectory](6-firstdirectory)
+mkdir tmp/my_first_directory
