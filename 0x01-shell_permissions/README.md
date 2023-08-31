@@ -12,3 +12,6 @@ sudo chown betty hello
 
 ###[4-empty](4-empty)
 touch hello
+
+###[5-execute](5-execute)
+chmod --x hello
