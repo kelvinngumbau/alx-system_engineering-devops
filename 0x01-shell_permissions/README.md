@@ -33,3 +33,6 @@ chmod --reference=olleh hello
 
 ###[11-directories_permissions](11-directories_permissions)
 chmod -R a+X .
+
+###[12-directory_permissions](12-directory_permissions)
+mkdir -m 751 my_dir
