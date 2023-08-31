@@ -24,3 +24,6 @@ chmod a+x hello
 
 ###[8-James_Bond](8-James_Bond)
 chmod 007 hell0
+
+###[9-John_Doe](9-John_Doe)
+chmod 753 hello
