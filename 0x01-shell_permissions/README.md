@@ -36,3 +36,6 @@ chmod -R a+X .
 
 ###[12-directory_permissions](12-directory_permissions)
 mkdir -m 751 my_dir
+
+###[13-change_group](13-change_group)
+chgrp school hello
