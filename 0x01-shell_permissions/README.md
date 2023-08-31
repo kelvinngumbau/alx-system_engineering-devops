@@ -30,3 +30,6 @@ chmod 753 hello
 
 ###[10-mirror_permissions]
 chmod --reference=olleh hello
+
+###[11-directories_permissions](11-directories_permissions)
+chmod -R a+X .
