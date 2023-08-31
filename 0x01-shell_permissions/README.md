@@ -14,4 +14,4 @@ sudo chown betty hello
 touch hello
 
 ###[5-execute](5-execute)
-chmod --x hello
+chmod +x hello
