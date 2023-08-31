@@ -21,3 +21,6 @@ chmod ug+x,o+r hello
 
 ###[7-everybody](7-everybody)
 chmod a+x hello
+
+###[8-James_Bond](8-James_Bond)
+chmod 007 hell0
