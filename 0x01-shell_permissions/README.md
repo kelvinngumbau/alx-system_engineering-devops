@@ -9,3 +9,6 @@ groups
 
 ###[3-new_owner](3-new_owner)
 sudo chown betty hello
+
+###[4-empty](4-empty)
+touch hello
