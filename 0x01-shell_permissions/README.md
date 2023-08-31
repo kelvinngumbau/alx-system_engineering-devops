@@ -27,3 +27,6 @@ chmod 007 hell0
 
 ###[9-John_Doe](9-John_Doe)
 chmod 753 hello
+
+###[10-mirror_permissions]
+chmod --reference=olleh hello
