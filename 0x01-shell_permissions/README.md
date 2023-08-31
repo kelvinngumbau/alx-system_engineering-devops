@@ -6,3 +6,6 @@ whoami
 
 ###[2-groups](2-groups)
 groups
+
+###[3-new_owner](3-new_owner)
+sudo chown betty hello
