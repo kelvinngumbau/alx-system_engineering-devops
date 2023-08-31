@@ -39,3 +39,6 @@ mkdir -m 751 my_dir
 
 ###[13-change_group](13-change_group)
 chgrp school hello
+
+###[100-change_owner_and_group](100-change_owner_and_group)
+chown -hR vincent:staff
